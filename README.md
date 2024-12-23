@@ -1,4 +1,4 @@
-# OpenShift Client - oc
+OpenShift Client - oc
 
 With OpenShift Client CLI (oc), you can create applications and manage OpenShift
 resources.  It is built on top of [kubectl](https://github.com/kubernetes/kubectl/)
